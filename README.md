@@ -1,4 +1,4 @@
-# hospital-data-analysis
+# Healthcare data analysis
 Excel-based hospital data analysis, pivot tables and dashboard
 
 ## Project Overview
@@ -26,7 +26,7 @@ Microsoft Excel (Data Cleaning, Pivot Tables, Dashboard)
 
 ## Files Included
 
-* `Healthcare_cleaned_dataset.xlsx` → Contains full dashboard and analysis
+* `Healthcare_cleaned_dataset.csv` → Contains full dashboard and analysis
 
 ## Insights
 
